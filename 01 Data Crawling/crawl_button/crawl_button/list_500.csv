@@ -1,0 +1,499 @@
+Symbol,Name,link
+MMM,3M,/equities/3m-co
+ABT,Abbott Laboratories,/equities/abbott-laboratories
+ABBV,AbbVie,/equities/abbvie-inc
+ABMD,Abiomed,/equities/abiomed
+ACN,Accenture,/equities/accenture-ltd
+ATVI,Activision Blizzard,/equities/activision-inc
+ADBE,Adobe,/equities/adobe-sys-inc
+AMD,Advanced Micro Devices,/equities/adv-micro-device
+AAP,Advance Auto Parts,/equities/advance-auto-parts
+AES,AES Corp,/equities/aes-corp
+AFL,Aflac,/equities/aflac-inc
+A,Agilent Technologies,/equities/agilent-tech
+APD,Air Products & Chemicals,/equities/air-prods---chem
+AKAM,Akamai Technologies,/equities/akamai-technologies-inc
+ALK,Alaska Air Group,/equities/alaska-air
+ALB,Albemarle Corporation,/equities/albemarle
+ARE,Alexandria Real Estate Equities,/equities/alexandria-real-estate-equities
+ALGN,Align Technology,/equities/align-technology
+ALLE,Allegion,/equities/allegion-public
+LNT,Alliant Energy,/equities/alliant-energy
+ALL,Allstate Corp,/equities/allstate-corporation
+GOOGL,Alphabet (Class A),/equities/google-inc
+GOOG,Alphabet (Class C),/equities/google-inc-c
+MO,Altria Group,/equities/altria-group
+AMZN,Amazon,/equities/amazon-com-inc
+AMCR,Amcor,/equities/amcor-plc
+AEE,Ameren Corp,/equities/ameren-corp
+AAL,American Airlines Group,/equities/american-airlines-group
+AEP,American Electric Power,/equities/american-electric
+AXP,American Express,/equities/american-express
+AIG,American International Group,/equities/american-intl-group
+AMT,American Tower,/equities/amer-tower-corp
+AWK,American Water Works,/equities/american-water-works-inc
+AMP,Ameriprise Financial,/equities/ameriprise-fincl
+ABC,AmerisourceBergen,/equities/amerisourcebergn
+AME,Ametek,/equities/ametek-inc
+AMGN,Amgen,/equities/amgen-inc
+APH,Amphenol Corp,/equities/amphenol-corp
+ADI,Analog Devices,/equities/analog-devices
+ANSS,Ansys,/equities/ansys
+ANTM,Anthem,/equities/wellpoint-inc
+AON,Aon,/equities/aon-corp
+APA,APA Corporation,/equities/apache-corp
+AAPL,Apple,/equities/apple-computer-inc
+AMAT,Applied Materials,/equities/applied-matls-inc
+APTV,Aptiv,/equities/delphi-automotive
+ADM,ADM,/equities/archer-daniels-mid
+ANET,Arista Networks,/equities/arista-networks
+AJG,Arthur J. Gallagher & Co.,/equities/arthur-j.-gallagher---co
+AIZ,Assurant,/equities/assurant
+T,AT&T,/equities/at-t
+ATO,Atmos Energy,/equities/atmos-energy-corp
+ADSK,Autodesk,/equities/autodesk-inc
+ADP,Automatic Data Processing,/equities/auto-data-process
+AZO,AutoZone,/equities/autozone-inc
+AVB,AvalonBay Communities,/equities/avalonbay-comm
+AVY,Avery Dennison,/equities/avery-dennison
+BKR,Baker Hughes,/equities/baker-hughes
+BLL,Ball Corp,/equities/ball-corp
+BAC,Bank of America,/equities/bank-of-america
+BAX,Baxter International,/equities/baxter-intl
+BDX,Becton Dickinson,/equities/becton-dickinsn
+BBY,Best Buy,/equities/best-buy
+BIO,Bio-Rad Laboratories,/equities/bio-rad-laboratories-inc
+BIIB,Biogen,/equities/biogen-idec-inc
+BLK,BlackRock,"/equities/blackrock,-inc.-c"
+BA,Boeing Company,/equities/boeing-co
+BKNG,Booking Holdings,/equities/priceline.com-inc
+BWA,BorgWarner,/equities/borgwarner
+BXP,Boston Properties,/equities/boston-ppty
+BSX,Boston Scientific,/equities/boston-scien-cp
+BMY,Bristol-Myers Squibb,/equities/bristol-myer-squiib
+AVGO,Broadcom,/equities/avago-technologies
+BR,Broadridge Financial Solutions,/equities/broadridge-financial-solutions
+CHRW,C. H. Robinson,/equities/c-h-robinson-worldwide-inc
+COG,Cabot Oil & Gas,/equities/cabot-oil---gas
+CDNS,Cadence Design Systems,/equities/cadence-design-system-inc
+CZR,Caesars Entertainment,/equities/caesars-entertainment-corp
+CPB,Campbell Soup,/equities/campbell-soup
+COF,Capital One Financial,/equities/capital-one
+CAH,Cardinal Health,/equities/cardinal-health
+KMX,CarMax,/equities/carmax-inc
+CCL,Carnival Corporation,/equities/carnival-corp-exch
+CARR,Carrier Global,/equities/carrier-global-corp
+CTLT,Catalent,/equities/catalent-inc
+CAT,Caterpillar,/equities/caterpillar
+CBOE,Cboe Global Markets,/equities/cboe-holdings-inc
+CBRE,CBRE,/equities/cbre
+CDW,CDW,/equities/cdw-corp
+CE,Celanese,/equities/celanese
+CNC,Centene Corporation,/equities/centene
+CNP,CenterPoint Energy,/equities/centerpoint
+CERN,Cerner,/equities/cerner-corporatio
+CF,CF Industries,/equities/cf-industries
+CRL,Charles River Laboratories,/equities/charles-river-laboratories-intl
+SCHW,Charles Schwab Corporation,/equities/charles-schwab
+CHTR,Charter Communications,/equities/charter-communications
+CVX,Chevron Corporation,/equities/chevron
+CMG,Chipotle Mexican Grill,/equities/chipotle-mexican-grill-inc
+CB,Chubb,/equities/chubb-corp
+CHD,Church & Dwight,/equities/church---dwight
+CI,Cigna,/equities/cigna-corp
+CINF,Cincinnati Financial,/equities/cincinnati-fin
+CTAS,Cintas Corporation,/equities/cintas-corp
+CSCO,Cisco Systems,/equities/cisco-sys-inc
+C,Citigroup,/equities/citigroup
+CFG,Citizens Financial Group,/equities/citizens-financial-group-inc
+CTXS,Citrix Systems,/equities/citrix-sys-inc
+CLX,Clorox,/equities/clorox-co
+CME,CME Group,/equities/cme-group-inc.
+CMS,CMS Energy,/equities/cms-energy-corp
+KO,Coca-Cola Company,/equities/coca-cola-co
+CTSH,Cognizant Technology Solutions,/equities/cognizant-technology-solutio
+CL,Colgate-Palmolive,/equities/colgate-palmo
+CMCSA,Comcast,/equities/comcast-corp-new
+CMA,Comerica,/equities/comerica-inc
+COP,ConocoPhillips,/equities/conoco-phillips
+ED,Consolidated Edison,/equities/cocnsol-edison
+STZ,Constellation Brands,/equities/constellation-a
+COO,The Cooper Companies,/equities/cooper-companies-inc
+CPRT,Copart,/equities/copart-inc
+GLW,Corning,/equities/corning-inc
+CTVA,Corteva,/equities/corteva
+COST,Costco,/equities/costco-whsl-corp-new
+CCI,Crown Castle,/equities/crown-castle-int
+CSX,CSX,/equities/csx-corp
+CMI,Cummins,/equities/cummins-inc
+CVS,CVS Health,/equities/cvs-corp
+DHI,D. R. Horton,/equities/d.r.-horton-inc
+DHR,Danaher Corporation,/equities/danaher-corp
+DRI,Darden Restaurants,/equities/dardem-rest
+DVA,DaVita,/equities/davita-inc
+DE,Deere & Co.,/equities/deere---co
+DAL,Delta Air Lines,/equities/delta-air-lines-new
+XRAY,Dentsply Sirona,/equities/dentsply-intl-inc-new
+DVN,Devon Energy,/equities/devon-energy
+DXCM,DexCom,/equities/dexcom
+FANG,Diamondback Energy,/equities/diamondback-energy-inc
+DLR,Digital Realty Trust,/equities/digital-realty-trust-inc
+DFS,Discover Financial Services,/equities/discover-financl
+DISCA,Discovery (Series A),/equities/discovery-holding-co
+DISCK,Discovery (Series C),/equities/discovery-communications-(c)
+DISH,Dish Network,/equities/dish-network
+DG,Dollar General,/equities/dollar-general-corp
+DLTR,Dollar Tree,/equities/dollar-tree-inc
+D,Dominion Energy,/equities/dominion-res
+DPZ,Domino's Pizza,/equities/dominos-pizza-inc
+DOV,Dover Corporation,/equities/dover-corp
+DOW,Dow,/equities/dow-chemical
+DTE,DTE Energy,/equities/dte-energy
+DUK,Duke Energy,/equities/duke-energy
+DRE,Duke Realty Corp,/equities/duke-realty-corp
+DD,DuPont,/equities/du-pont
+DXC,DXC Technology,/equities/comp-science
+EMN,Eastman Chemical,/equities/eastman-chem
+ETN,Eaton Corporation,/equities/eaton
+EBAY,eBay,/equities/ebay-inc
+ECL,Ecolab,/equities/ecolab-inc
+EIX,Edison International,/equities/edison-intl
+EW,Edwards Lifesciences,/equities/edward-lifescience
+EA,Electronic Arts,/equities/electronic-arts-inc
+EMR,Emerson Electric Company,/equities/emerson-elec
+ENPH,Enphase Energy,/equities/enphase-energy-inc
+ETR,Entergy,/equities/entergy-corp
+EOG,EOG Resources,/equities/eog-resources
+EFX,Equifax,/equities/equifax-inc
+EQIX,Equinix,"/equities/equinix,-inc."
+EQR,Equity Residential,/equities/eq-resident
+ESS,Essex Property Trust,/equities/essex-property-trust-inc
+ETSY,Etsy,/equities/etsy-inc
+EVRG,Evergy,/equities/westar-energy
+ES,Eversource Energy,/equities/northeast-utilities
+RE,Everest Re,/equities/everest-re-group-ltd
+EXC,Exelon,/equities/exelon-corp
+EXPE,Expedia Group,/equities/expedia
+EXPD,Expeditors,/equities/expeditors-intl-wash-inc
+EXR,Extra Space Storage,/equities/extra-space-storage
+XOM,ExxonMobil,/equities/exxon-mobil
+FFIV,F5 Networks,/equities/f5-networks-inc
+FB,Facebook,/equities/facebook-inc
+FAST,Fastenal,/equities/fastenal-co
+FRT,Federal Realty Investment Trust,/equities/federal-realty-investment-trust
+FDX,FedEx,/equities/fedex-corp
+FIS,Fidelity National Information Services,/equities/fidelity-natl-in
+FITB,Fifth Third Bancorp,/equities/fifth-third-bk
+FE,FirstEnergy,/equities/first-energy
+FRC,First Republic Bank,/equities/first-republic-bank
+FISV,Fiserv,/equities/fiserv-inc
+FLT,Fleetcor,/equities/fleetcor-tech
+FMC,FMC Corporation,/equities/fmc-corp
+F,Ford,/equities/ford-motor-co
+FTNT,Fortinet,/equities/fortinet
+FTV,Fortive,/equities/fortive-corp
+FBHS,Fortune Brands Home & Security,/equities/fortune-brands-home---security
+FOXA,Fox Corporation (Class A),/equities/fox-corp
+BEN,Franklin Resources,/equities/franklin-res
+FCX,Freeport-McMoRan,/equities/freeport-mcm
+GPS,Gap,/equities/gap.inc
+GRMN,Garmin,/equities/garmin-ltd
+IT,Gartner,/equities/gartner
+GNRC,Generac Holdings,/equities/generac-holdings
+GD,General Dynamics,/equities/general-dynam
+GE,General Electric,/equities/general-electric
+GIS,General Mills,/equities/general-mills
+GM,General Motors,/equities/gen-motors
+GPC,Genuine Parts,/equities/genuine-parts-co
+GILD,Gilead Sciences,/equities/gilead-sciences-inc
+GL,Globe Life,/equities/torchmark-corp
+GPN,Global Payments,/equities/global-payments
+GS,Goldman Sachs,/equities/goldman-sachs-group
+GWW,W. W. Grainger,/equities/w-w-grainger-inc
+HAL,Halliburton,/equities/halliburton-co
+HBI,Hanesbrands,/equities/hanesbrands
+HIG,The Hartford,/equities/hartford-finl
+HAS,Hasbro,/equities/hasbro-inc
+HCA,HCA Healthcare,/equities/hca-holdings-inc
+PEAK,Healthpeak Properties,/equities/hcp-inc
+HSIC,Henry Schein,/equities/henry-schein
+HSY,The Hershey Company,/equities/hershey-co
+HES,Hess Corporation,/equities/hess-corp
+HPE,Hewlett Packard Enterprise,/equities/hewlett-packard-enterprise-co
+HLT,Hilton Worldwide,/equities/hilton-worldwide
+HOLX,Hologic,/equities/hologic-inc
+HD,Home Depot,/equities/home-depot
+HON,Honeywell,/equities/honeywell-intl
+HRL,Hormel,/equities/hormel-foods-corp
+HST,Host Hotels & Resorts,/equities/host-hotels---res
+HWM,Howmet Aerospace,/equities/howmet-aerospace-inc
+HPQ,HP,/equities/hewlett-pack
+HUM,Humana,/equities/humana-inc
+HBAN,Huntington Bancshares,/equities/huntgtn-bkshr
+HII,Huntington Ingalls Industries,/equities/huntington-ingalls-industries-inc
+IEX,IDEX Corporation,/equities/idex
+IDXX,Idexx Laboratories,/equities/idexx-laboratorie
+INFO,IHS Markit,/equities/markit-ltd
+ITW,Illinois Tool Works,/equities/illinois-tool-wk-r
+ILMN,Illumina,"/equities/illumina,-inc."
+INCY,Incyte,/equities/incyte-corp
+IR,Ingersoll Rand,/equities/ingersoll-rand
+INTC,Intel,/equities/intel-corp
+ICE,Intercontinental Exchange,/equities/intercontintlex
+IBM,IBM,/equities/ibm
+IP,International Paper,/equities/intl-paper-co
+IPG,Interpublic Group,/equities/interpublic-grp
+IFF,International Flavors & Fragrances,/equities/intl-flav---frag
+INTU,Intuit,/equities/intuit
+ISRG,Intuitive Surgical,/equities/intuitive-surgical-inc
+IVZ,Invesco,/equities/invesco-ltd
+IPGP,IPG Photonics,/equities/ipg-photonics-corp.
+IQV,IQVIA,/equities/quintis-trl-hlgs
+IRM,Iron Mountain,/equities/iron-mountain-inc
+JKHY,Jack Henry & Associates,/equities/jack-henry---asso
+J,Jacobs Engineering Group,/equities/jacobs-engineer
+JBHT,J. B. Hunt,/equities/j.b.-hunt-transpo
+SJM,JM Smucker,/equities/jm-smucker-co
+JNJ,Johnson & Johnson,/equities/johnson-johnson
+JCI,Johnson Controls,/equities/johnson-controls
+JPM,JPMorgan Chase,/equities/jp-morgan-chase
+JNPR,Juniper Networks,/equities/juniper-networks-inc
+KSU,Kansas City Southern,/equities/kansas-city-southern-inc
+K,Kellogg's,/equities/kellogg-co.
+KEY,KeyCorp,/equities/keycorp-new
+KEYS,Keysight Technologies,/equities/keysight-technologies
+KMB,Kimberly-Clark,/equities/kimberly-clark
+KIM,Kimco Realty,/equities/kimco-realty
+KMI,Kinder Morgan,/equities/kinder-morgan
+KLAC,KLA Corporation,/equities/kla-tencor-corp
+KHC,Kraft Heinz,/equities/kraft-foods-inc
+KR,Kroger,/equities/kroger-co
+BBWI,L Brands,/equities/limited-brands
+LHX,L3Harris Technologies,/equities/harris-corporation
+LH,LabCorp,/equities/laboratory-corp-of-amer
+LRCX,Lam Research,/equities/lam-research-corp
+LW,Lamb Weston,/equities/lamb-weston-holdings-inc
+LVS,Las Vegas Sands,/equities/las-vegas-sands
+LEG,Leggett & Platt,/equities/leggett---platt
+LDOS,Leidos,/equities/leidos-holdings
+LEN,Lennar,/equities/lennar
+LLY,Eli Lilly & Co,/equities/eli-lilly-and-co
+LNC,Lincoln National,/equities/lincoln-natl
+LYV,Live Nation Entertainment,/equities/live-nation-entertainment-inc
+LKQ,LKQ Corporation,/equities/lkq
+LMT,Lockheed Martin,/equities/lockheed-martin
+L,Loews Corporation,/equities/loews-corporation
+LOW,Lowe's,/equities/lowes-companies
+LUMN,Lumen Technologies,/equities/centurylink
+LYB,LyondellBasell,/equities/lyondellbasell-industries
+MTB,M&T Bank,/equities/m-t-bank-corp
+MRO,Marathon Oil,/equities/marathon-oil
+MPC,Marathon Petroleum,/equities/marathon-petroleum-corp.
+MKTX,MarketAxess,/equities/marketaxess-holdi
+MAR,Marriott International,/equities/marriott-intl
+MMC,Marsh & McLennan,/equities/marsh---mclennan
+MLM,Martin Marietta Materials,/equities/martin-marietta-materials-inc
+MAS,Masco,/equities/masco-corp
+MA,Mastercard,/equities/mastercard-cl-a
+MKC,McCormick & Company,/equities/mccormick---co
+MXIM,Maxim Integrated,/equities/maxim-integrated
+MCD,McDonald's,/equities/mcdonalds
+MCK,McKesson Corporation,/equities/mckesson-corp
+MDT,Medtronic,/equities/medtronic
+MRK,Merck & Co.,/equities/merck---co
+MET,MetLife,/equities/metlife-inc
+MTD,Mettler Toledo,/equities/mettler-toledo-international-inc
+MGM,MGM Resorts International,/equities/mgm-mirage
+MCHP,Microchip Technology,/equities/microchip-technology-inc
+MU,Micron Technology,/equities/micron-tech
+MSFT,Microsoft,/equities/microsoft-corp
+MAA,Mid-America Apartments,/equities/mid-america-apartment-communities
+MRNA,Moderna,/equities/moderna
+MHK,Mohawk Industries,/equities/mohawk-industries
+TAP,Molson Coors Beverage Company,/equities/molson-coors
+MDLZ,Mondelez International,/equities/mondelez-international-inc
+MPWR,Monolithic Power Systems,/equities/monolithic-power
+MNST,Monster Beverage,/equities/monster-beverage
+MCO,Moody's Corporation,/equities/moodys-corp
+MS,Morgan Stanley,/equities/morgan-stanley
+MOS,The Mosaic Company,/equities/mosaic-company
+MSI,Motorola Solutions,/equities/motorola-inc
+MSCI,MSCI,/equities/msci-inc
+NDAQ,Nasdaq,/equities/nasdaq-omx-group
+NTAP,NetApp,/equities/network-appliance-inc
+NFLX,Netflix,"/equities/netflix,-inc."
+NWL,Newell Brands,/equities/newell-rubber
+NEM,Newmont,/equities/newmont-mining
+NWSA,News Corp (Class A),/equities/news-corp.
+NWS,News Corp (Class B),/equities/news-corporation
+NEE,NextEra Energy,/equities/nextera-energy-inc
+NLSN,Nielsen Holdings,/equities/nielsen-holdings-nv
+NKE,Nike,/equities/nike
+NI,NiSource,/equities/ni-source-inc
+NSC,Norfolk Southern,/equities/norfolk-southern
+NTRS,Northern Trust,/equities/northern-trust
+NOC,Northrop Grumman,/equities/northrop-grumman
+NLOK,NortonLifeLock,/equities/symantec-corp
+NCLH,Norwegian Cruise Line Holdings,/equities/norwegian-cruise-line-holdings-ltd
+NOV,Nov,/equities/ntl-oilwell-varc
+NRG,NRG Energy,/equities/nrg-energy-inc
+NUE,Nucor,/equities/nucor
+NVDA,Nvidia,/equities/nvidia-corp
+NVR,NVR,/equities/nvr-inc
+NXPI,NXP,/equities/nxp-semiconductors
+ORLY,O'Reilly Automotive,/equities/oreilly-automotive
+OXY,Occidental Petroleum,/equities/occidental-petro
+ODFL,Old Dominion Freight Line,/equities/old-dominion-freight-line-inc
+OMC,Omnicom Group,/equities/omnicom-gp-inc
+OKE,Oneok,/equities/oneok
+ORCL,Oracle,/equities/oracle-corp
+OGN,Organon & Co.,/equities/organon-co
+OTIS,Otis Worldwide,/equities/otis-worldwide-corp
+PCAR,Paccar,/equities/paccar-inc
+PKG,Packaging Corporation of America,/equities/packaging-corp
+PH,Parker-Hannifin,/equities/parkerhannifin
+PAYX,Paychex,/equities/paychex-inc
+PAYC,Paycom,/equities/paycom-soft
+PYPL,PayPal,/equities/paypal-holdings-inc
+PENN,Penn National Gaming,/equities/penn-national-gaming-inc
+PNR,Pentair,/equities/pentair
+PBCT,People's United Financial,/equities/peoples-united-financial
+PEP,PepsiCo,/equities/pepsico
+PKI,PerkinElmer,/equities/perkinelmer
+PRGO,Perrigo,/equities/perrigo-co
+PFE,Pfizer,/equities/pfizer
+PM,Philip Morris International,/equities/philip-morris-intl
+PSX,Phillips 66,/equities/phillips-66-ltd
+PNW,Pinnacle West Capital,/equities/pinnacle-west
+PXD,Pioneer Natural Resources,/equities/pioneer-natural-resources
+PNC,PNC Financial Services,/equities/pnc-fin-serv
+POOL,Pool Corporation,/equities/pool-corp
+PPG,PPG Industries,/equities/ppg-industries
+PPL,PPL,/equities/ppl-corp
+PFG,Principal Financial Group,/equities/principal-fin
+PG,Procter & Gamble,/equities/procter-gamble
+PGR,Progressive Corporation,/equities/the-progressive
+PLD,Prologis,/equities/prologis
+PRU,Prudential Financial,/equities/prudential-fin
+PTC,PTC,/equities/ptc
+PEG,Public Service Enterprise Group,/equities/publ-svc-enter
+PSA,Public Storage,/equities/public-stg-mld
+PHM,PulteGroup,/equities/pulte-homes-inc
+PVH,PVH,/equities/pvh
+QRVO,Qorvo,/equities/qorvo-inc
+PWR,Quanta Services,/equities/quanta-services
+QCOM,Qualcomm,/equities/qualcomm-inc
+DGX,Quest Diagnostics,/equities/quest-diag
+RL,Ralph Lauren Corporation,/equities/polo-ralph-laur
+RJF,Raymond James Financial,/equities/raymond-james-financial-inc
+RTX,Raytheon Technologies,/equities/united-tech
+O,Realty Income Corporation,/equities/realty-income
+REG,Regency Centers,/equities/regency-centers-corp
+REGN,Regeneron Pharmaceuticals,/equities/regeneron-phar.
+RF,Regions Financial Corporation,/equities/regions-fin
+RSG,Republic Services,/equities/republic-services-inc
+RMD,ResMed,/equities/resmed-inc
+RHI,Robert Half International,/equities/robert-half-intl
+ROK,Rockwell Automation,/equities/rockwell-automat
+ROL,Rollins,/equities/rollins-inc
+ROP,Roper Technologies,/equities/roper-industries
+ROST,Ross Stores,/equities/ross-stores-inc
+RCL,Royal Caribbean Group,/equities/royal-caribbean
+SPGI,S&P Global,/equities/mcgraw-hill
+CRM,Salesforce,/equities/salesforce-com
+SBAC,SBA Communications,/equities/sba-communications-corp
+SLB,Schlumberger,/equities/schlumberger-ltd
+STX,Seagate Technology,/equities/seagate-technology
+SEE,Sealed Air,/equities/sealed-air
+SRE,Sempra Energy,/equities/sempra-energy
+NOW,ServiceNow,/equities/servicenow-inc
+SHW,Sherwin-Williams,/equities/sherwinwilliams
+SPG,Simon Property Group,/equities/simon-prop-grp
+SWKS,Skyworks Solutions,/equities/skyworks-solutions-inc
+SNA,Snap-on,/equities/snapon-inc
+SO,Southern Company,/equities/southern-co
+LUV,Southwest Airlines,/equities/sth-west-airlines
+SWK,Stanley Black & Decker,/equities/stanley-works
+SBUX,Starbucks,/equities/starbucks-corp
+STT,State Street Corporation,/equities/state-street
+STE,Steris,/equities/steris-corp
+SYK,Stryker Corporation,/equities/stryker
+SIVB,SVB Financial,/equities/svb-financial-gro
+SYF,Synchrony Financial,/equities/synchrony-fin
+SNPS,Synopsys,/equities/synopsys-inc
+SYY,Sysco,/equities/sysco-corp
+TMUS,T-Mobile US,/equities/metropcs-communications
+TROW,T. Rowe Price,/equities/t-rowe-price-gp
+TTWO,Take-Two Interactive,/equities/take-two-interactive
+TPR,Tapestry,/equities/coach
+TGT,Target Corporation,/equities/target
+TEL,TE Connectivity,/equities/te-connectivity
+TDY,Teledyne Technologies,/equities/teledyne-technologies-inc
+TFX,Teleflex,/equities/teleflex-inc
+TER,Teradyne,/equities/teradyne-inc
+TSLA,Tesla,/equities/tesla-motors
+TXN,Texas Instruments,/equities/texas-instru
+TXT,Textron,/equities/textron-inc
+TMO,Thermo Fisher Scientific,/equities/thermo-fisher-sc
+TJX,TJX Companies,/equities/tjx-co-inc
+TSCO,Tractor Supply Company,/equities/tractor-supply-company
+TT,Trane Technologies,/equities/trane-technologies-plc
+TDG,TransDigm Group,/equities/transdigm-group-inc
+TRV,The Travelers Companies,/equities/the-travelers-co
+TRMB,Trimble,/equities/trimble-navigation-ltd
+TFC,Truist Financial,/equities/bb-t-corp
+TWTR,Twitter,/equities/twitter-inc
+TYL,Tyler Technologies,/equities/tyler-technologies-inc
+TSN,Tyson Foods,/equities/tyson-foods
+UDR,UDR,/equities/udr
+ULTA,Ulta Beauty,/equities/ulta-salon-cosmetics---fragrance
+USB,U.S. Bancorp,/equities/us-bancorp
+UAA,Under Armour (Class A),/equities/under-armour
+UA,Under Armour (Class C),/equities/under-armour-c
+UNP,Union Pacific,/equities/union-pacific
+UAL,United Airlines,/equities/united-continenta
+UNH,UnitedHealth Group,/equities/united-health-group
+UPS,United Parcel Service,/equities/united-parcel
+URI,United Rentals,/equities/united-rentals
+UHS,Universal Health Services,/equities/universal-health-services
+UNM,Unum Group,/equities/unum-group
+VLO,Valero Energy,/equities/valero-energy
+VTR,Ventas,/equities/ventas-inc
+VRSN,Verisign,/equities/verisign-inc
+VRSK,Verisk Analytics,/equities/verisk-analytics-inc
+VZ,Verizon Communications,/equities/verizon-communications
+VRTX,Vertex Pharmaceuticals,/equities/vertex-pharm
+VFC,VF Corporation,/equities/vf-corp
+VIAC,ViacomCBS,/equities/viacom-cl-b
+VTRS,Viatris,/equities/mylan-inc
+V,Visa,/equities/visa-inc
+VNO,Vornado Realty Trust,/equities/vornado-realty
+VMC,Vulcan Materials,/equities/vulcan-matrls
+WRB,W. R. Berkley Corporation,/equities/wr-berkley-corp
+WAB,Wabtec,/equities/westinghouse-air-brake-tech
+WMT,Walmart,/equities/wal-mart-stores
+WBA,Walgreens Boots Alliance,/equities/walgreen-co
+DIS,The Walt Disney Company,/equities/disney
+WM,Waste Management,/equities/waste-managemnt
+WAT,Waters Corporation,/equities/waters-corp
+WEC,WEC Energy Group,/equities/wisconsin-energy-corp
+WFC,Wells Fargo,/equities/wells-fargo
+WELL,Welltower,/equities/health-care-reit
+WST,West Pharmaceutical Services,/equities/west-pharmaceutical-services-inc
+WDC,Western Digital,/equities/western-digital
+WU,Western Union,/equities/western-union
+WRK,WestRock,/equities/westrock-co
+WY,Weyerhaeuser,/equities/weyerhaeuser
+WHR,Whirlpool Corporation,/equities/whirl-pool-corp
+WMB,Williams Companies,/equities/williams-cos
+WLTW,Willis Towers Watson,/equities/willis-group-holdings-plc
+WYNN,Wynn Resorts,/equities/wynn-resorts-ltd
+XEL,Xcel Energy,/equities/xcel-energy
+XLNX,Xilinx,/equities/xilinx-inc
+XYL,Xylem,/equities/xylem
+YUM,Yum! Brands,/equities/yum!-brands-inc
+ZBRA,Zebra Technologies,/equities/zebra-tech
+ZBH,Zimmer Biomet,/equities/zimmer-hldgs
+ZION,Zions Bancorp,/equities/zions-bancorp
+ZTS,Zoetis,/equities/zoetis-inc
+LIN,Linde,/equities/linde-plc?cid=942017
